@@ -52,6 +52,8 @@ li, a {
     cursor: pointer;
     height: 30px;
     padding: 3px 10px;
+}
+
 .main {
     color: #f2f2f2;
     height: auto;
