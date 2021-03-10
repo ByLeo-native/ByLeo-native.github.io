@@ -7,3 +7,30 @@
 html {
     font-size: 62.5%;
 }
+
+.footer {
+    background-color: #242423;
+    border-top: 2px solid cornsilk;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 50px;
+}
+
+.footer__img--logo {
+    cursor: pointer;
+    height: 50px;
+}
+
+.footer__title {
+    color: #339989;
+    font-size: 3.2rem;
+    margin-bottom: 10px;
+}
+
+.footer-nav-links ul{
+    list-style: none;
+}
+
+.footer-nav-links li {
+    margin: 5px 0;
+}
